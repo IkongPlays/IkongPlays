@@ -1,4 +1,4 @@
-### Hi there 👋
+### IkongPlays.github.io
 
 <!--
 **IkongPlays/IkongPlays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
